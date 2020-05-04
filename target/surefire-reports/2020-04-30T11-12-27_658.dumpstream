@@ -1,0 +1,4 @@
+# Created at 2020-04-30T11:12:29.810
+Boot Manifest-JAR contains absolute paths in classpath 'D:\SeleniumWebdriver\FacebookLogin\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
