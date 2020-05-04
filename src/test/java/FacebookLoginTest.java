@@ -24,6 +24,7 @@ public class FacebookLoginTest {
 	 
 	@Test 
 	public void fblogin(){
+		System.out.println("Executing login Test");
 		driver.findElement(By.id("email")).sendKeys("mangesh.sontake@gmail.com");
 	
 		driver.findElement(By.name("pass")).sendKeys("mange");
